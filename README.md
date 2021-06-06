@@ -8,3 +8,6 @@ My azure resume project.
 
 
 
+
+## Issues with Student Azure Account
+-Currently can not use CDN because I'm using my student credits so the url is stuck as https://azureresumenick.z19.web.core.windows.net/
